@@ -1,4 +1,4 @@
 torch
 torchvision
-PIL
-rag_text_generation
+Pillow
+
